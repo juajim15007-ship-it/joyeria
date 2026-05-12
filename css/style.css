@@ -429,7 +429,7 @@ h1,h2,h3,h4 { font-family: var(--font-head); line-height: 1.2; }
 
 /* Anillos */
 .product-image-r1 { background: url(img/anillo1.jpg); background-size: cover; background-position: center; }
-.product-image-r2 { background: url(img/anillo2.jpg); background-size: cover; background-position: center; }
+.product-image-r2 { background: url(https://www.google.com/imgres?q=anillo%20de%20oro%2018k&imgurl=https%3A%2F%2Fdecolombiajoyas.com%2Fjoyeriaoroplata%2Fwp-content%2Fuploads%2F2023%2F05%2F102-scaled.jpg&imgrefurl=https%3A%2F%2Fdecolombiajoyas.com%2Fjoyeriaoroplata%2Fproduct%2Fanillo-compromiso-copa-5-oro-18k%2F%3Fsrsltid%3DAfmBOor9TGNJuUi1YjdcnNcecZovt8Npeqe4v6uwowCkeZNkh-4GyV6T&docid=SQs-JFHWQ6dkXM&tbnid=AgPfXVBP5R1pDM&vet=12ahUKEwjhutjqqqCUAxXRQjABHVzQCWAQnPAOegQIHRAB..i&w=2560&h=2560&hcb=2&ved=2ahUKEwjhutjqqqCUAxXRQjABHVzQCWAQnPAOegQIHRAB); background-size: cover; background-position: center; }
 .product-image-r3 { background: url(img/anillo3.jpg); background-size: cover; background-position: center; }
 .product-image-r4 { background: url(img/anillo4.jpg); background-size: cover; background-position: center; }
 
